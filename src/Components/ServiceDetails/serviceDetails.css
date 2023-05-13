@@ -1,0 +1,7 @@
+.service{
+    height: 100%;
+    width: 100%;
+    background-color: #FF3811;
+    -webkit-clip-path: polygon(8% 33%, 92% 33%, 100% 100%, 0% 100%);
+clip-path: polygon(8% 33%, 92% 33%, 100% 100%, 0% 100%);
+}
